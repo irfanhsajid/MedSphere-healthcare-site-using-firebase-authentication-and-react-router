@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Dr. Steve",
+        "age": 31,
+        "specialist": "Cardiology",
+        "budget": 100,
+        "education": "Dhaka Medical College",
+        "img": "https://i.ibb.co/x1Bjj11/download-1.jpg"
+    },
+    {
+        "name": "Dr.Phillips",
+        "age": 75,
+        "specialist": "Cardiology",
+        "budget": 1500,
+        "education": "Chittagong Medical Clg",
+        "img": "https://i.ibb.co/v3jtsvt/images-2.jpg"
+    },
+    {
+        "name": "Dr. Alia Bhat",
+        "age": 43,
+        "specialist": "Medicine",
+        "budget": 1700,
+        "education": "Karachi Medical College",
+        "img": "https://i.ibb.co/2vJkmJF/images-6.jpg"
+    },
+    {
+        "name": "Dr. Naika",
+        "age": 55,
+        "specialist": "Surgery",
+        "budget": 2000,
+        "education": "Mumbai Medical College",
+        "img": "https://i.ibb.co/w4dxwWW/images-3.jpg"
+    },
+    {
+        "name": "Dr. Hoblos",
+        "age": 37,
+        "specialist": "Neorology",
+        "budget": 1500,
+        "education": "Kolkata Medical College",
+        "img": "https://i.ibb.co/Gpcc53x/images-3.jpg"
+    },
+    {
+        "name": "Dr. Diana ",
+        "age": 36,
+        "specialist": "Pulmonogy",
+        "budget": 1700,
+        "education": "Harvard University",
+        "img": "https://i.ibb.co/MfWtPDt/images-1.jpg"
+    },
+    {
+        "name": " Dr. Menk",
+        "age": 46,
+        "specialist": "Dental",
+        "budget": 1800,
+        "education": "Cardiology",
+        "img": "https://i.ibb.co/RhGkr1x/images-4.jpg"
+    },
+    {
+        "name": "Dr. Yasin",
+        "age": 75,
+        "specialist": "Surgery",
+        "budget": 2000,
+        "education": " Bangladesh Medical College ",
+        "img": "https://i.ibb.co/Jq0RWns/images-1.jpg"
+    },
+    {
+        "name": "Dr. Estes",
+        "age": 77,
+        "specialist": "Dental",
+        "budget": 2000,
+        "education": "Jones Medical College",
+        "img": "https://i.ibb.co/GC9M8t6/images-2.jpg"
+    },
+    {
+        "name": "Dr. Maline",
+        "age": 75,
+        "specialist": "Cardiology",
+        "budget": 1500,
+        "education": "Chittagong Medical Clg",
+        "img": "https://i.ibb.co/LpGBHLh/download.jpg"
+    },
+    {
+        "name": "Dr.Phillips",
+        "age": 75,
+        "specialist": "Cardiology",
+        "budget": 1500,
+        "education": "Chittagong Medical Clg",
+        "img": "https://i.ibb.co/v3jtsvt/images-2.jpg"
+    },
+    {
+        "name": "Dr. Mohammad Hijab",
+        "age": 35,
+        "specialist": "Psychology",
+        "budget": 1900,
+        "education": "Ukrane Medical College",
+        "img": "https://i.ibb.co/x1Bjj11/download-1.jpg"
+    }
+]
