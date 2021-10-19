@@ -1,0 +1,84 @@
+.section{
+    background-color: #07003B;
+}
+.footer-container{
+color: #fff;
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   grid-gap: 2rem;
+}
+.section-title{
+    font-size: 27px;
+    font-weight: bold;
+}
+.footer-left-info p,b{
+    color:gainsboro ;
+}
+.social-icon{
+    display: flex;
+}
+.social-icon li{
+    list-style: none;
+    margin-right: 20px;
+    font-size: 20px; 
+}
+.social-icon i{
+    transition: .3s;
+    color: #95befe;
+}
+
+.social-icon i:hover{
+    color: #fff;
+}
+
+.footer-right-form form{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+input, textarea{
+    outline: 0;
+    border: 1px solid;
+    width: 100%;
+    box-sizing: border-box;
+}
+#textarea{
+    color: #000;
+}
+form .footer-form{
+    background: transparent;
+    border-color: #fff;
+    font-size: 17px;
+    font-weight: 300;
+    margin-bottom: 20px;
+    padding: 8px 16px;
+}
+.send-btn{
+    padding: 4px 25px;
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    border-radius: 5px;
+    transition: .3s;
+}
+.send-btn:hover{
+    background: #fff;
+    color: #000;
+
+}
+
+
+
+@media only screen and (max-width:940px) {
+   .footer-container{
+       width: 100%;
+       grid-template-columns: 1fr;
+   }
+   
+    
+}
+@media only screen and (max-width:400px){
+    .footer-container{
+        width: 100%;
+    }
+}

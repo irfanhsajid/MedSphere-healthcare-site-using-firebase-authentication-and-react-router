@@ -1,0 +1,20 @@
+
+@media screen and (max-width:800px) {
+    .contact-left{
+        margin-right: 10px;
+    }
+    .banner-text{
+        font-size: 35px;
+       
+    }
+}
+@media screen and (max-width:680px) {
+    .contact-container{
+        display: flex;
+        flex-direction: column;
+    }
+    .banner-text{
+        font-size: 40px;
+    }
+
+}

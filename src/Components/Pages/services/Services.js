@@ -13,7 +13,7 @@ const Services = () => {
     return (
         <div id="services" className="my-5 container-fluid">
             <div className="text-center mb-5">
-                <p className="text-info"><b>Our Services</b></p>
+                <p><b className="text-info">Our Services</b></p>
                 <h1 className="services-title">We Offer Different Services <br /> To Improve Your Health</h1>
             </div>
             <div className="services-container px-2">

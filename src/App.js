@@ -15,6 +15,7 @@ import NotFound from './Components/Pages/NotFound/Notfound';
 import ServiceDetails from './Components/Pages/ServiceDetails/ServiceDetails';
 import Login from './Components/Pages/Login/Login';
 import Register from './Components/Pages/Register/Register';
+import Footer from './Components/Pages/Shared/Footer/Footer';
 function App() {
   return (
     <div className="App">
@@ -49,6 +50,7 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
+        <Footer></Footer>
       </Router>
     </div>
   );
