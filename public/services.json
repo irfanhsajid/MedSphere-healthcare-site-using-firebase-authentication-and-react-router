@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "Cardiology",
+        "doctors": "Richard Gonzales, Rachel Lewis,Thomas Russell",
+        "cost": "$235.00",
+        "image": "https://i.ibb.co/nBgY9cx/cardiology.png",
+        "bannerImg": "https://i.ibb.co/xCSXHkD/cardiology banner.jpg ",
+        "details": "Our medical clinic provides Best Cariology care with having the best Cardiologsts of all over the country. We always compromise best quality Care with proper nursing. We provide neat and clean cabins for our respected patiens and there is guest cabins also for the patient relatives. for the entire family while maintaining lizam a personable atmosphere best services. We have ennormous pathology department with all kinds of essential equipments. So, feel free to admit your Cardio Patients here. Best regards."
+    },
+    {
+        "id": "2",
+        "name": "Dental Care",
+        "doctors": "Andrea Rivera, Donna Collins,Christina Jackson",
+        "cost": "$210.00",
+        "image": "https://i.ibb.co/Y0Kg9Y1/dental-care.png",
+        "bannerImg": "https://i.ibb.co/QJZYyML/dental-care-banner.jpg",
+        "details": "Our medical clinic provides Best Dental care with having the best Dentists of all over the country. We always compromise best quality Care with proper nursing. We provide neat and clean cabins for our respected patiens and there is guest cabins also for the patient relatives. for the entire family while maintaining lizam a personable atmosphere best services. We have ennormous pathology department with all kinds of essential equipments. So, feel free to admit your dental Patients here. Best regards."
+    },
+    {
+        "id": "3",
+        "name": "Nurology",
+        "doctors": " Ven Hall, D. Martin,Anne Sanchez",
+        "cost": "$130.00",
+        "image": "https://i.ibb.co/hBqwqmQ/neurology.png",
+        "bannerImg": "https://i.ibb.co/VD2cNRk/images.jpg ",
+        "details": "Our medical clinic provides Best Nurology care with having the best Nurologists of all over the country. We always compromise best quality Care with proper nursing. We provide neat and clean cabins for our respected patiens and there is guest cabins also for the patient relatives. for the entire family while maintaining lizam a personable atmosphere best services. We have ennormous pathology department with all kinds of essential equipments. So, feel free to admit your Patients here. Best regards."
+    },
+    {
+        "id": "4",
+        "name": "Orthopedics",
+        "doctors": "Julie Brown,Nancy Henderson,Carol Hill",
+        "cost": "$130.00",
+        "image": "https://i.ibb.co/VHtqFqH/orthopedics.png",
+        "bannerImg": "https://i.ibb.co/kHDgGzd/orthopedics-banner.jpg",
+        "details": "Our medical clinic provides Best Orthopedics care with having the best Orthopedics doctors of all over the country. We always compromise best quality Care with proper nursing. We provide neat and clean cabins for our respected patiens and there is guest cabins also for the patient relatives. for the entire family while maintaining lizam a personable atmosphere best services. We have ennormous pathology department with all kinds of essential equipments. So, feel free to admit your Patients here! Best regards."
+    },
+    {
+        "id": "5",
+        "name": "Pulmonology",
+        "doctors": "Beverly Hall,Am Martin,Anne Sanchez",
+        "cost": "$130.00",
+        "image": "https://i.ibb.co/ZH01Z6V/pulmonology.png",
+        "bannerImg": " https://i.ibb.co/C8rNrD5/pulmonology-banner.jpg",
+        "details": "Our medical clinic provides Best Pulmonolgy care with having the best pulmonologists of all over the country. We always compromise best quality Care with proper nursing. We provide neat and clean cabins for our respected patiens and there is guest cabins also for the patient relatives. for the entire family while maintaining lizam a personable atmosphere best services. We have ennormous pathology department with all kinds of essential equipments. So, feel free to admit your Patients here. Best regards."
+    },
+    {
+        "id": "6",
+        "name": "Medicine",
+        "doctors": "Rivera,Collins Donna ,Chris Jacks",
+        "cost": "$130.00",
+        "image": "https://i.ibb.co/k0C4sZp/medicine.png",
+        "bannerImg": "https://i.ibb.co/sj2sPgc/medicine-banner.jpg",
+        "details": "Our medical clinic provides Best Medicine care with having the best Medicine Doctors of all over the country. We always compromise best quality Care with proper nursing. We provide neat and clean cabins for our respected patiens and there is guest cabins also for the patient relatives. for the entire family while maintaining lizam a personable atmosphere best services. We have ennormous pathology department with all kinds of essential equipments. So, feel free to admit your Patients here. Best regards."
+    }
+]

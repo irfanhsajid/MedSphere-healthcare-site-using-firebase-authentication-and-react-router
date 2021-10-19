@@ -1,0 +1,18 @@
+.services-title{
+    color: #07003be8;
+    font-weight: bold;
+    font-size: 35px;
+}
+.services-card{
+    transition: all .4s;
+      
+}
+.services-card:hover{
+    border: 2px dashed #31d3d3 ;
+    box-shadow: 2px 2px 20px 5px  gray;
+    transform: scale(1.03);
+    background: #e3f7fa;
+}
+.btn-danger .btn-info{
+    outline: none;
+}
