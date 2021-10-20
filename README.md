@@ -10,4 +10,6 @@ This is a simple healthcare site made with  `React Js`,`React Router`, `Bootstra
 * For getting direct Doctors appoinment Route to the Doctors page and Click `Appoint Dr` Button and then It will also redirect you to the login page.
 * If You Successfully logged in, you will see a `Log Out` Button on the right side of the Navbar to sign out.
 
+#### NB: This site is fully responsive to all devices.
+
 Live Site Link: [https://medsphere-the-healthcare-site.web.app/](https://medsphere-the-healthcare-site.web.app/)
