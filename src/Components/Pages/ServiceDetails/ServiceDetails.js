@@ -21,7 +21,7 @@ const ServiceDetails = () => {
                 <p>{detailsInfo[0]?.details}</p>
                 <strong>Cost : {detailsInfo[0]?.cost}</strong>
                 <h3 className="doctors-name">Specialist Doctors: {detailsInfo[0]?.doctors} </h3>
-                <Link style={{ textDecoration: 'none' }} to="/doctors"> <button className="btn-outline-primary px-3 py-1 dr-btn rounded-2">More Details</button></Link>
+                <Link style={{ textDecoration: 'none' }} to="/none"> <button className="btn-outline-primary px-3 py-1 dr-btn rounded-2">More Details</button></Link>
             </div>
         </div>
     );

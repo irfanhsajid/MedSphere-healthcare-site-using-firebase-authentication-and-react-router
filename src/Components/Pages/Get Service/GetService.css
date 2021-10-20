@@ -1,5 +1,5 @@
 .getService-container{
-    height: 100vh;
+    height: 500px;
     width: 100%;
    
 }
@@ -12,6 +12,7 @@
 
 @media screen and (max-width:800px) {
     .getService-container{
+        height: 400px;
         width: 100%;
     }
 }
