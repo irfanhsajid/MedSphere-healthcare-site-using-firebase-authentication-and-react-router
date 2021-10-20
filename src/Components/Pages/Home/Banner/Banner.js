@@ -9,7 +9,7 @@ const Banner = () => {
                     <p ><b className="text-info">10+ Years Experience</b></p>
                     <h1 className="banner-text">We Are Always <br />
                         Ready To Help <br /> You & Your <br /> Family <strong>❤</strong> </h1>
-                    <button className="btn-info mt-4 px-md-3 py-md-2  fw-bold border-0 rounded-3 btn-main">Book Apointment</button>
+                    <button className="btn-info mt-4 px-lg-3 py-lg-2  fw-bold border-0 rounded-3 btn-main">Book Apointment</button>
                 </div>
                 <div className="banner-right  col-md-7 col-12">
                     <img className="img-fluid banner-img" src={bannerImg} alt="404 not found" />

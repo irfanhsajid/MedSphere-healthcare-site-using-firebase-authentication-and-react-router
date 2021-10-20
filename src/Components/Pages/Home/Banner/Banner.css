@@ -33,9 +33,13 @@ b,strong{
 .banner-img:hover{
     transform:scale(1.07);
 }
-@media screen and (max-width:900px) {
-    .banner-title{
+@media screen and (max-width:1180px) {
+    .banner-text{
         font-size: 40px;
+    }
+    .banner-text strong{
+        top: 5px;
+        
     }
 }
 
@@ -43,9 +47,10 @@ b,strong{
     .banner-container{
         width: 100%;
     }
-    .banner-title{
-        font-size: 40px;  
+    .banner-text{
+        font-size: 25px;  
     }
+    
     img{
         margin-top: 30px;
     }

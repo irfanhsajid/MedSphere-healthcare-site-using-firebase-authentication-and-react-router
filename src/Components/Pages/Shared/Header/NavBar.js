@@ -4,11 +4,12 @@ import { Link } from 'react-router-dom';
 import logo from '../../../../images/Logo/logo.png'
 import './nav.css'
 import { HashLink } from 'react-router-hash-link';
-import useFirebase from '../../../../Hooks/useFirebase';
+import useAuth from '../../../../Hooks/useAuth';
+// import useFirebase from '../../../../Hooks/useFirebase';
 
 
 const NavBar = () => {
-    const { user, logOut } = useFirebase();
+    const { user, logOut } = useAuth();
     return (
         <div className="container-fluid nav-container">
             <Navbar bg="light" variant="light" sticky="top" collapseOnSelect expand="lg">

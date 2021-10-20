@@ -16,9 +16,9 @@ const Footer = () => {
                         </p>
                     </address>
                     <p>
-                        <b>Phone: </b> (10)+990123323 <br />
-                        <b>Fax: </b> 01888344443 <br />
-                        <b>Email: </b>medSphere@hotmail.com <br />
+                        <strong>Phone: </strong> (10)+990123323 <br />
+                        <strong>Fax: </strong> 01888344443 <br />
+                        <strong>Email: </strong>medSphere@hotmail.com <br />
                     </p>
                     <ul className="social-icon">
                         <li><a href="none"><i className="fab fa-facebook-f"></i></a></li>
@@ -29,11 +29,11 @@ const Footer = () => {
                     </ul>
                 </div>
                 <div className="footer-right-form">
-                    <h1 className="section-title">Contact Us</h1>
+                    <h1 className="section-title">Complain box</h1>
                     <form action="#">
                         <input type="text" name="full-name" id="" placeholder="Full Name" className=" footer-form form-control" />
-                        <input type="email" name="email" id="" placeholder="Email Address" className=" footer-form form-control" />
-                        <textarea rows="5" name="message" id="textarea" placeholder="Share Opinion..." className="footer-form form-control"  > </textarea>
+                        <input type="email" name="email" id="" placeholder="Email Address " className=" footer-form form-control" />
+                        <textarea rows="5" name="message" placeholder="Message..." class="form-control footer-form"></textarea>
                         <button className="send-btn ">Send</button>
                     </form>
                 </div>

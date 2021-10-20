@@ -19,7 +19,7 @@ const ServiceDetails = () => {
             <div className="details-text p-4">
                 <h1 className="title">{detailsInfo[0]?.name}</h1>
                 <p>{detailsInfo[0]?.details}</p>
-                <b>Cost : {detailsInfo[0]?.cost}</b>
+                <strong>Cost : {detailsInfo[0]?.cost}</strong>
                 <h3 className="doctors-name">Specialist Doctors: {detailsInfo[0]?.doctors} </h3>
                 <Link style={{ textDecoration: 'none' }} to="/doctors"> <button className="btn-outline-primary px-3 py-1 dr-btn rounded-2">More Details</button></Link>
             </div>

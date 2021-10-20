@@ -2,16 +2,14 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './login.css';
 import loginImg from './login-Undraw Img.jpg';
-import useFirebase from '../../../Hooks/useFirebase';
-
-
+import useAuth from '../../../Hooks/useAuth';
 const Login = () => {
-    const { signInUsingGoogle } = useFirebase;
+    const { signInUsingGoogle } = useAuth();
     return (
         <div className="container mb-5">
             <div className="row justify-content-center align-items-center login-form">
                 <div className="form-left col-md-5 col-12">
-                    <h6 className="text-center fw-bold">Login Here for Dr's Appointment</h6>
+                    <h6 className="text-center fw-bold">Please Login Here for any Appointment</h6>
                     <form onSubmit="" className="my-2 form-inputField">
                         <input className="border-0" type="email" name="" id="" placeholder="Your email" /> <br />
                         <input className="border-0" type="password" name="" id="" placeholder="Your Password" />

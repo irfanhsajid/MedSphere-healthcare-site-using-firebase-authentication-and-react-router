@@ -7,9 +7,9 @@ const Contact = () => {
             <div className="container contact-container p-4 d-flex align-items-center justify-content-between">
                 <div className="contact-left">
                     <h1 className="banner-text">Contact Us</h1>
-                    <b className="text-secondary">Home / Contact</b>
-                    <p> +99012789 <br />
-                        <small>medsphere@hotline.io</small></p>
+                    <p className="text-muted"><i class="fas fa-phone-volume"></i> +99012789 <br />
+                        <small><i class="fas fa-envelope me-2">
+                        </i>medsphere@hotline.io</small></p>
                 </div>
                 <div className="contact-right">
                     <img className="img-fluid" src={contactImg} alt="" />

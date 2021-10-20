@@ -16,6 +16,7 @@ const Services = () => {
                 <p><b className="text-info">Our Services</b></p>
                 <h1 className="services-title">We Offer Different Services <br /> To Improve Your Health</h1>
             </div>
+            <p className="border-bottom  border-2 w-25 d-flex mx-auto"></p>
             <div className="services-container px-2">
                 <div className="row justify-content-center">
                     {

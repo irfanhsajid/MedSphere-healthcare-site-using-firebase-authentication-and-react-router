@@ -19,7 +19,16 @@
     margin: 0 auto;
 }
 
-@media only screen and (max-width:940px) {
+@media screen and (max-width:769px) {
+    .login-form{
+        display: flex;
+       flex-direction: column-reverse;
+       margin-bottom: 40px;
+       width: 100%;
+    }
+}
+
+@media only screen and (max-width:480px) {
     .login-form{
         display: flex;
        flex-direction: column-reverse;

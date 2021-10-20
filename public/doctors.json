@@ -12,8 +12,16 @@
         "age": 75,
         "specialist": "Cardiology",
         "budget": 1500,
-        "education": "Chittagong Medical Clg",
+        "education": "Sylhet Medical College",
         "img": "https://i.ibb.co/v3jtsvt/images-2.jpg"
+    },
+    {
+        "name": "Dr. Emmy",
+        "age": 55,
+        "specialist": "Surgery",
+        "budget": 2000,
+        "education": "Mumbai Medical College",
+        "img": "https://i.ibb.co/w4dxwWW/images-3.jpg"
     },
     {
         "name": "Dr. Alia Bhat",
@@ -24,44 +32,20 @@
         "img": "https://i.ibb.co/2vJkmJF/images-6.jpg"
     },
     {
-        "name": "Dr. Naika",
-        "age": 55,
+        "name": "Dr. Yasin",
+        "age": 75,
         "specialist": "Surgery",
         "budget": 2000,
-        "education": "Mumbai Medical College",
-        "img": "https://i.ibb.co/w4dxwWW/images-3.jpg"
-    },
-    {
-        "name": "Dr. Hoblos",
-        "age": 37,
-        "specialist": "Neorology",
-        "budget": 1500,
-        "education": "Kolkata Medical College",
-        "img": "https://i.ibb.co/Gpcc53x/images-3.jpg"
-    },
-    {
-        "name": "Dr. Diana ",
-        "age": 36,
-        "specialist": "Pulmonogy",
-        "budget": 1700,
-        "education": "Harvard University",
-        "img": "https://i.ibb.co/MfWtPDt/images-1.jpg"
+        "education": "Canadian Medical College ",
+        "img": "https://i.ibb.co/Jq0RWns/images-1.jpg"
     },
     {
         "name": " Dr. Menk",
         "age": 46,
         "specialist": "Dental",
         "budget": 1800,
-        "education": "Cardiology",
+        "education": "Us Bangla Medical College",
         "img": "https://i.ibb.co/RhGkr1x/images-4.jpg"
-    },
-    {
-        "name": "Dr. Yasin",
-        "age": 75,
-        "specialist": "Surgery",
-        "budget": 2000,
-        "education": " Bangladesh Medical College ",
-        "img": "https://i.ibb.co/Jq0RWns/images-1.jpg"
     },
     {
         "name": "Dr. Estes",
@@ -72,27 +56,19 @@
         "img": "https://i.ibb.co/GC9M8t6/images-2.jpg"
     },
     {
+        "name": "Dr. Hoblos",
+        "age": 37,
+        "specialist": "Neorology",
+        "budget": 1500,
+        "education": "Kolkata Medical College",
+        "img": "https://i.ibb.co/Gpcc53x/images-3.jpg"
+    },
+    {
         "name": "Dr. Maline",
         "age": 75,
         "specialist": "Cardiology",
         "budget": 1500,
-        "education": "Chittagong Medical Clg",
+        "education": "Faridpur Medical College",
         "img": "https://i.ibb.co/LpGBHLh/download.jpg"
-    },
-    {
-        "name": "Dr.Phillips",
-        "age": 75,
-        "specialist": "Cardiology",
-        "budget": 1500,
-        "education": "Chittagong Medical Clg",
-        "img": "https://i.ibb.co/v3jtsvt/images-2.jpg"
-    },
-    {
-        "name": "Dr. Mohammad Hijab",
-        "age": 35,
-        "specialist": "Psychology",
-        "budget": 1900,
-        "education": "Ukrane Medical College",
-        "img": "https://i.ibb.co/x1Bjj11/download-1.jpg"
     }
 ]

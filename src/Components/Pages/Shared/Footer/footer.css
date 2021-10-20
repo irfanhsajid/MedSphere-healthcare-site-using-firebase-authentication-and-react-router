@@ -1,8 +1,8 @@
 .section{
-    background-color: #07003B;
+    background-color: #0e083b;
 }
 .footer-container{
-color: #fff;
+color: #ffffffe0;
    display: grid;
    grid-template-columns: 1fr 1fr;
    grid-gap: 2rem;
@@ -11,8 +11,12 @@ color: #fff;
     font-size: 27px;
     font-weight: bold;
 }
-.footer-left-info p,b{
-    color:gainsboro ;
+
+.footer-left-info p{
+    color:#dcdcdcbe ;
+}
+.footer-left-info strong{
+     color: #ffffffe0;
 }
 .social-icon{
     display: flex;
@@ -24,11 +28,12 @@ color: #fff;
 }
 .social-icon i{
     transition: .3s;
-    color: #95befe;
+    color: #fff;
 }
 
 .social-icon i:hover{
-    color: #fff;
+    transform: scale(1.5);
+    color: #F86263;
 }
 
 .footer-right-form form{
@@ -42,11 +47,12 @@ input, textarea{
     width: 100%;
     box-sizing: border-box;
 }
-#textarea{
-    color: #000;
+textarea::placeholder{
+   
+    font-size: 1.3em;
 }
 form .footer-form{
-    background: transparent;
+    /* background: transparent; */
     border-color: #fff;
     font-size: 17px;
     font-weight: 300;
